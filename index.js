@@ -7,5 +7,3 @@ function updateObjectWithKeyAndValue(object, key, value) {
   newObj[key] = value;
   return newObj;
 }
-
-function updateObjectWithKeyAndValue
